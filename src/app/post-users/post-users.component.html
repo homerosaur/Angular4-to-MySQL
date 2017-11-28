@@ -1,0 +1,13 @@
+<p class="component-title">
+  post-users.component.ts
+</p>
+
+<mat-form-field class="full-width">
+  <input #_firstName matInput placeholder="First Name">
+</mat-form-field>
+
+<mat-form-field class="full-width">
+  <input #_lastName matInput placeholder="Last Name">
+</mat-form-field>
+
+<button (click)="addUser(_firstName.value, _lastName.value)" mat-raised-button color="primary">Add a user</button>
