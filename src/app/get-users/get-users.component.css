@@ -1,0 +1,27 @@
+.component-title {
+  background-color: #FAFAFA;
+  color: #474747;
+  border: 1px solid #BDBDBD;
+  padding: 1px;
+  font-family: arial;
+  font-style: italic;
+  font-weight: normal;
+  font-size: 10px;
+  font-variant: normal;
+  text-align: center;
+  text-decoration: none;
+  text-transform: none;
+  border-radius: 5px;
+  box-shadow: 1px 0px 5px #E6E6E6;
+}
+.under-title {
+  color: cornflowerblue;
+}
+.path-title {
+  background-color: #FFFFFF;
+  color: #ED850E;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 11px;
+  text-decoration: none;
+}
